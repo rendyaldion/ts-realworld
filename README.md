@@ -1,4 +1,4 @@
-# ![RealWorld Example App](logo.png)
+# ![RealWorld Example App](https://github.com/gothinkster/realworld-starter-kit/raw/master/logo.png)
 
 > ### [YOUR_FRAMEWORK] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
